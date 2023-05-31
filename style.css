@@ -1,0 +1,90 @@
+.Fotos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.P1,
+.P2,
+.P3,
+.P4,
+.P5 {
+    font-weight: bold;
+    padding: 30px;
+}
+
+
+.container-fluid {
+    background-color: coral !important;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+}
+
+.img-1 {
+    width: 300px;
+    height: 300px;
+}
+
+.img-2 {
+    width: 300px;
+    height: 300px;
+}
+
+.img-3 {
+    width: 300px;
+    height: 300px;
+}
+
+.Quien-Soy {
+    font-size: larger;
+    text-decoration: underline;
+    background-color: darksalmon;
+}
+
+.Rutinas {
+    font-size: larger;
+    text-decoration: underline;
+    background-color: darksalmon;
+}
+
+.Mis-Trabajos-Fotos {
+    font-size: larger;
+    text-decoration: underline;
+    background-color: darksalmon;
+}
+
+.Servicios {
+    font-size: larger;
+    text-decoration: underline;
+    background-color: darksalmon;
+}
+
+.Productos {
+    font-size: larger;
+    text-decoration: underline;
+    background-color: darksalmon;
+}
+
+footer {
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: space-around;
+}
+
+.footer-links a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.contact-info span {
+    display: block;
+    margin-bottom: 5px;
+}
